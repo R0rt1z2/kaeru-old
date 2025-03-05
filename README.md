@@ -1,5 +1,5 @@
 # かえる
-kaeru is an ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders (LK) with full permissions, initiated post-hardware initialization and before the main LK function (app) execution. For more details about it, [visit and read my blog](https://blog.r0rt1z2.com/unsigned-code-execution-in-lk-bootloaders.html).
+kaeru is an ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders (LK) with full permissions, initiated post-hardware initialization and before the main LK function (app) execution. For more details about it, [visit and read my blog](https://blog.r0rt1z2.com/unsigned-code-execution-on-lk-bootloaders.html).
 
 ## Building
 ### Requirements
